@@ -1,6 +1,7 @@
 # Secure P2P Chat with Double Ratchet & SAS
 
-![Screenshot](main_gui.png) <!-- <<< REPLACE THIS WITH YOUR SCREENSHOT -->
+![Screenshot](main_gui.png)
+![Screenshot](mismatch_verification.png)
 
 A secure, end-to-end encrypted peer-to-peer chat application built with Python and Tkinter, featuring the Double Ratchet algorithm (inspired by Signal) and Short Authentication String (SAS) verification for man-in-the-middle (MitM) protection.
 
